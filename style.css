@@ -1,0 +1,13 @@
+.status {
+	height: 4vh;
+	width: 0%;
+	background-color: #000080;
+	transition: .6s linear;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+body {
+	height: 500vh;
+	background-image: linear-gradient(45deg, #004466 0%, #e6f7ff 100%)
+}
